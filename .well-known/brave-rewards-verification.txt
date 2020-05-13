@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: raymcbride.github.io
+Token: e15e6f58f27109da97308a4316855145b449b6868f43b84d2feb91c5d86371e2
