@@ -1,0 +1,83 @@
+html {
+  -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+          text-size-adjust: 100%;
+}
+body {
+  font-family: Ubuntu, 'Helvetica Neue', Arial, Helvetica, 'Liberation Sans', FreeSans, sans-serif;
+  font-size: 16px;
+  background-color: #fff;
+  color: #555;
+  margin: 32px auto;
+  max-width: 800px;
+  padding: 0 16px;
+  position: relative;
+}
+
+header {
+  display: block;
+}
+
+footer {
+  font-size: 0.9rem;
+  display: block;
+}
+
+h1 {
+  color: #000;
+  font-size: 2rem;
+  margin-bottom: 16px;
+}
+
+p, ul {
+  font-size: 1rem;
+  line-height: 1.6rem;
+}
+
+p:first-of-type img {
+  float:left;
+  margin-right: 16px;
+}
+
+p ~ * > img {
+  width:100%;
+  margin: 10px auto 0;
+  max-width: 400px;
+  display: block;
+}
+
+hr {
+  border: 0;
+  color: #aaa;
+  background-color: #aaa;
+  height: 1px;
+  width: 100%;
+  margin: 20px 0;
+}
+
+ul {
+  overflow: hidden;
+}
+
+span.copyright {
+  margin-top: 16px;
+  display: block;
+  font-size: 0.8rem;
+  color: #999;
+}
+a {
+  text-decoration: none;
+  color: #666;
+}
+
+a:visited {
+  color: #333;
+}
+
+a:focus, a:hover {
+  opacity: 0.75;
+}
+
+#logo {
+  margin-right: 20px;
+}
