@@ -5,11 +5,11 @@ html {
 }
 body {
   font-family: Ubuntu, 'Helvetica Neue', Arial, Helvetica, 'Liberation Sans', FreeSans, sans-serif;
-  font-size: 16px;
+  font-size: 22px;
   background-color: #fff;
   color: #555;
   margin: 32px auto;
-  max-width: 800px;
+  max-width: 75%;
   padding: 0 16px;
   position: relative;
 }
@@ -19,19 +19,19 @@ header {
 }
 
 footer {
-  font-size: 0.9rem;
+  font-size: 1.2rem;
   display: block;
 }
 
 h1 {
   color: #000;
-  font-size: 2rem;
+  font-size: 3rem;
   margin-bottom: 16px;
 }
 
 p, ul {
-  font-size: 1rem;
-  line-height: 1.6rem;
+  font-size: 1.5rem;
+  line-height: 2rem;
 }
 
 p:first-of-type img {
@@ -62,7 +62,7 @@ ul {
 span.copyright {
   margin-top: 16px;
   display: block;
-  font-size: 0.8rem;
+  font-size: 1rem;
   color: #999;
 }
 a {
