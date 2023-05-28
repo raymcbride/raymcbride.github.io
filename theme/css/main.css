@@ -7,7 +7,7 @@ body {
   font-family: Ubuntu, 'Helvetica Neue', Arial, Helvetica, 'Liberation Sans', FreeSans, sans-serif;
   font-size: 22px;
   background-color: #fff;
-  color: #555;
+  color: #333;
   margin: 32px auto;
   max-width: 75%;
   padding: 0 16px;
@@ -25,7 +25,7 @@ footer {
 
 h1 {
   color: #000;
-  font-size: 3rem;
+  font-size: 4rem;
   margin-bottom: 16px;
 }
 
