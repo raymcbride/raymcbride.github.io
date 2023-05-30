@@ -1,0 +1,85 @@
+==================================================================
+https://keybase.io/raymcbride
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://raymcbride.com
+  * I am raymcbride (https://keybase.io/raymcbride) on keybase.
+  * I have a public key with fingerprint 2350 8D83 F617 C835 82DA  7F1C
+9444 64A2 FCAC 16B8
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid":
+"0101e3b4ca2103f3a7ef69b38992ade22c5782df3a5115bbfab0f4822f9b03291f2f0a",
+            "fingerprint": "23508d83f617c83582da7f1c944464a2fcac16b8",
+            "host": "keybase.io",
+            "key_id": "944464a2fcac16b8",
+            "kid":
+"0101e3b4ca2103f3a7ef69b38992ade22c5782df3a5115bbfab0f4822f9b03291f2f0a",
+            "uid": "8ccb640664ba2e14c333438b4d7ab019",
+            "username": "raymcbride"
+        },
+        "revoke": {
+            "sig_ids": [
+               
+"b5902fbbef058284f20c0cb8cc3d06dc86ded990db4ad139148298b8f43588190f"
+            ]
+        },
+        "service": {
+            "hostname": "raymcbride.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1455525300,
+    "expire_in": 157680000,
+    "prev":
+"105176315750e19e7fdaf5b14e0f4f75a1fd4441a1e39c5800f12e0e355cd68f",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2
+
+owGtkm1QVFUYx5cXcWEHB0UoEWbwOvQCG9xz3/ZehpdhYlKncSQTlxeNuefec9g7
+wN5td0EQMbQpRJEcQ5YGkQkUYyJGDBIKLRSHyBEiIm1CmqyRUCpkGiFfsrNMfaqP
+fbpzz/N/fs//+Z9zJNjPYPSpS1dbHnaE9/pcmYGG7QO1NeUU1NUyKrGcKkBLH1So
+Ipc7r0BTqUSKBjRALOQUmQE0i1nZgrAgQVaUJEZWEcMovEVkVFLgAeAhxDKkMScy
+DJYgzTISwAymZcpMYc2ej5wOp2Z3EyzD8rSoiiwWgEURWZ4gZAsGisRxnMDJDFZk
+BQhQJI023eXtIOag7ELxmk7OyE/ekr3/0P/PvouXcKKiQIGjBYGDMoMAp7Asy7Ei
+5FQLaQSSV+hCTrtchIjaKZcVKdCpqYiqMFNOVKIXIG+yLi2f2HZRibkU5CWawRAi
+TJPlRQ4ztEIrkMxhVVpQFVFQkSpJtAo5WQWsBIg3SYQi5khYIpBoTO0kbDKzRFOW
+4N6c/jU/XtGLiDeHU3fril5Iaja32+FK9Ppy95U5vOpdCOb9zcmDml0lF0VaSpDT
+pel2KhEQqeLWvGDA8TzP8CxNmylU6tCcKE/zKniLINK099RBliVIQPPAIrCkwNMI
+SMiCVRnzEHCIhIwtvAywSm4OyOSOJIUnzRgwiEYszyuqIGLKu9mrdp2wCdQt5xMm
+Cc8uu4udJNOgat9If4OP0RCwzNf7hA1BgSH/vOv5P0MMX2yqqbfwySnhkzl97Hj1
+r4UHP09qrDIXvmIOS0kybZ1beT9jj2dLQVLCM7eoMlNtRs5rbyfvRu1pYlOcY3vY
+nfxd1mP+rcYMY8IpjzzWGNH+0mhhxQ3wKK85Z7l5sCr71MnimMbmgb7rn5rLzS7f
+ynC/NQ2Nz+14q+v4teaYbe7+e3unqzs6vs9Y/eCn7gDfbQc/2XD7K6o/6pI12t23
+8wVPcOQq6ggWzodM0HhDq3Nj/53cWnV0xZmpb7KzDgTMvZPll2iLOj2BU9dsKQ+w
+mG/tjUpLNY6/kfpBd2XGobpHN8t/67GtWnyw7lqV59jV4LGE+YWhsyOx5xdbvjsE
+Kns7M7Pk/TU2V2vSyYqmqrZx5t2hb9PCTFefPhr71G1161rrheBl4kfZRcaPZw9U
+D677Re4qfXL68v3Fu3NMT1iloz55mm0bCLsZPR9XFtOUMlE7Y7XFre0cNHYXreju
+iZ5rDjy3fk/FD+avC2KLtZHsyd2RJv/O9QtP1H7pOdvVMT3zfui8nj9af8LT93vM
+kHV/6KbNwuubUyJnh9/MHIl+L/30iw2TR1NWT1gjeiN2XLh04llTVPro8FTtYX05
+NF1+bJQfD49F3r3YYMj6LBR+eL24zdr98759hqCsTPj8ufZSv5cjc+N/XKhImzVm
+z49dDFH/uHLYR546Tree2cjcmBwPvFe3sqXj4V8=
+=M4UZ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/raymcbride
+
+==================================================================
+
