@@ -25,13 +25,13 @@ footer {
 
 h1 {
   color: #000;
-  font-size: 3em;
+  font-size: 2.5em;
   margin-bottom: 16px;
 }
 
 h2 {
   color: #000;
-  font-size: 1.5rem;
+  font-size: 1.5em;
 }
 
 h3 {
@@ -41,7 +41,7 @@ h3 {
 
 p, ul {
   font-size: 1.125em;
-  line-height: 1.5rem;
+  line-height: 1.5em;
 }
 
 p:first-of-type img {
